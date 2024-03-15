@@ -16,6 +16,6 @@ I'm Tarun, a software engineer embarking on an exciting journey into quantum com
 📝✨ P.S. It's my 2024 new year resolution to contribute to open source!
 
 ## Socials!
- <a href="(https://www.linkedin.com/in/tarun-kumar-allamsetty/)">
+ <a href="https://www.linkedin.com/in/tarun-kumar-allamsetty/">
             <img src="assets/linkedin.svg" alt="LinkedIn">
  </a>
