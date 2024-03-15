@@ -17,5 +17,5 @@ I'm Tarun, a software engineer embarking on an exciting journey into quantum com
 
 ## Socials!
  <a href="https://www.linkedin.com/in/tarun-kumar-allamsetty/">
-            <img src="assets/linkedin.svg" alt="LinkedIn">
+            <img src="assets /linkedin.svg" alt="LinkedIn">
  </a>
