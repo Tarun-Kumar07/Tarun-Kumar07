@@ -13,6 +13,21 @@ I'm Tarun, a software engineer embarking on an exciting journey into quantum com
 ## Projects I've contributed to
 <!-- This list is auto-generated using readme-repos-list -->
 <!-- start: readme-repos-list -->
+<!-- This list is auto-generated using readme-repos-list -->
+<!-- Do not edit this list manually, your changes will be overwritten -->
+* [amazon-braket-pennylane-plugin-python](https://github.com/Tarun-Kumar07/amazon-braket-pennylane-plugin-python) - A plugin for allowing Xanadu PennyLane to use Amazon Braket devices
+
+* [amazon-braket-sdk-python](https://github.com/Tarun-Kumar07/amazon-braket-sdk-python) - A Python SDK for interacting with quantum devices on Amazon Braket
+
+* [Cirq](https://github.com/Tarun-Kumar07/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+
+* [monthly-challenges](https://github.com/Tarun-Kumar07/monthly-challenges) - Repository containing monthly challenges in the field of quantum computing.
+
+* [pennylane](https://github.com/Tarun-Kumar07/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
+
+* [qiskit](https://github.com/Tarun-Kumar07/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
+
+* [quantum-explorers](https://github.com/Tarun-Kumar07/quantum-explorers) - A self-paced, quantum computing learning journey for high school students and above. 
 
 <!-- end: readme-repos-list -->
 
