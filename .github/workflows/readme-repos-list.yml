@@ -13,5 +13,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           query: "user:Tarun-Kumar07 fork:only"
-          max: 100
+          max: 10
           sort: "updated"
