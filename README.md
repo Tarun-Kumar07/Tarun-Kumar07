@@ -11,22 +11,47 @@ I'm Tarun, a software engineer embarking on an exciting journey into quantum com
 - Ranked in the top 100 of iQHack coding challenges. [View certificate](https://cloud.pennylane.ai/profiles/ob/certificates/permalink/1cd1d437-e93c-4455-acd0-b9738e61cd67)
 
 ## Projects I've contributed to
-<!-- This list is auto-generated using readme-repos-list -->
-<!-- start: readme-repos-list -->
-<!-- This list is auto-generated using readme-repos-list -->
-<!-- Do not edit this list manually, your changes will be overwritten -->
-* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+<details>
+<summary>
+    <a href="https://github.com/PennyLaneAI/pennylane" target="_blank">
+      PennyLane 
+    </a>
+</summary>
 
-* [awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+- Enhanced the testing framework by implementing `assert_equal` in
+  [PR #5780](https://github.com/PennyLaneAI/pennylane/pull/5780). This feature
+  not only compares two operators but also provides detailed explanations
+  for any differences, improving deb
+- Implemented `QutritChannel` functionality in  [PR #5973](https://github.com/PennyLaneAI/pennylane/pull/5793) operation, addressing [Issue #5649](https://github.com/PennyLaneAI/pennylane/issues/5649).
+  This work enabled noise model support for qutrits in quantum computing simulations, extending the framework's capabilities beyond qubits,
+  with added methods and tests to ensure robustness and accuracy.
+- **Enhanced Shot Sampling Efficiency:** Improved PennyLane's shot sampling
+  process by implementing the `shots.bins()` method in
+  [PR #5433](https://github.com/PennyLaneAI/pennylane/pull/5433). This update
+  enables efficient sampling by processing shot quantities in partitions,
+  reducing redundancy and improving overall performance.
+- Few bug fixes
 
-* [Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+</details>
+<details>
+<summary>
+    <a href="" target="_blank">
+     Qiskit 
+    </a>
+</summary>
 
-* [docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series)
+ - Contributed to fixing the [Issue #12106](https://github.com/Qiskit/qiskit/issues/12106) in `synth_cnot_count_full_pmh` which synthesizes linear reversible circuits for a given quantum state.
 
-* [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers! 
+</details>
+<details>
+<summary>
+    <a href="https://github.com/amazon-braket/amazon-braket-sdk-python" target="_blank">
+      Amazon Braket Python Sdk
+    </a>
+</summary>
 
-<!-- end: readme-repos-list -->
-
+- Resolved [Issue #603](https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603) by addressing conflicts 
+where `FreeParameter` names clashed with OpenQASM reserved keywords in [PR #999](https://github.com/amazon-braket/amazon-braket-sdk-python/pull/999).
 
 
 ## Stats
