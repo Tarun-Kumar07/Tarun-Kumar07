@@ -35,7 +35,7 @@ I'm Tarun, a software engineer embarking on an exciting journey into quantum com
 </details>
 <details>
 <summary>
-    <a href="" target="_blank">
+    <a href="https://github.com/Qiskit/qiskit" target="_blank">
      Qiskit 
     </a>
 </summary>
