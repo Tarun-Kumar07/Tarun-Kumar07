@@ -52,11 +52,10 @@ I'm Tarun, a software engineer embarking on an exciting journey into quantum com
 
 - Resolved [Issue #603](https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603) by addressing conflicts 
 where `FreeParameter` names clashed with OpenQASM reserved keywords in [PR #999](https://github.com/amazon-braket/amazon-braket-sdk-python/pull/999).
-
+</details>
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kumar07&show_icons=true&theme=radical)](https://github.com/Tarun-Kumar07/Tarun-Kumar07) <br>
-📝✨ P.S. It's my 2024 new year resolution to contribute to open source!
 
 ## Socials!
  <a href="https://www.linkedin.com/in/tarun-kumar-allamsetty/">
