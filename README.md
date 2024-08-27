@@ -4,7 +4,7 @@ I'm Tarun, a passionate software engineer with a keen interest in quantum comput
 
 ## About Me
 
-- Discovered quantum computing while simulating Shor's algorithm on FPGA during undergrad. [View publication](https://ieeexplore.ieee.org/document/9807860)
+- Learnt about quantum computing while simulating Shor's algorithm on FPGA during undergrad project. [View publication](https://ieeexplore.ieee.org/document/9807860)
 - Completed the IBM Space Explorer Program, achieving an Advanced badge. [View badge](https://www.credly.com/badges/28fb91b1-077d-45e3-8f1a-77a383ee392c/public_url)
 - Ranked in the top 100 out of 2,000 participants in the iQHack coding challenges. [View certificate](https://cloud.pennylane.ai/profiles/ob/certificates/permalink/1cd1d437-e93c-4455-acd0-b9738e61cd67)
 - Successfully completed bounties in the UnitaryHack. [View completed bounties](https://unitaryhack.dev/hackers/tarun-kumar07/)
