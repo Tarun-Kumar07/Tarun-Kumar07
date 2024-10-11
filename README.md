@@ -16,7 +16,7 @@ I'm Tarun, a passionate software engineer with a keen interest in quantum comput
 
 - Enhanced the testing framework by implementing `assert_equal` in [PR #5780](https://github.com/PennyLaneAI/pennylane/pull/5780). This feature provides detailed explanations for operator differences, improving debugging.
 - Implemented `QutritChannel` functionality in [PR #5793](https://github.com/PennyLaneAI/pennylane/pull/5793) to support noise models for qutrits in quantum computing simulations.
-- Improved shot sampling efficiency with `shots.bins()` in [PR #5433](https://github.com/PennyLaneAI/pennylane/pull/5433), optimizing performance.
+- Improved shot sampling efficiency with `shots.bins()` in [PR #5476](https://github.com/PennyLaneAI/pennylane/pull/5476), optimizing performance.
 - [Link](https://github.com/PennyLaneAI/pennylane/pulls?q=author%3ATarun-Kumar07+) to all contributions
 
 </details>
