@@ -35,8 +35,5 @@ I'm Tarun, a passionate software engineer with a keen interest in quantum comput
 
 </details>
 
-## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kumar07&show_icons=true&theme=radical)](https://github.com/Tarun-Kumar07/Tarun-Kumar07)
-
 ## Socials
 - LinkedIn: [Tarun Kumar Allamsetty](https://www.linkedin.com/in/tarun-kumar-allamsetty/)
