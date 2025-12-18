@@ -1,6 +1,6 @@
 # Welcome
 
-I'm Tarun, a passionate software engineer with a keen interest in quantum computing. Excited to explore and learn along this fascinating journey!
+I'm Tarun, a Master's Student in Quantum Computing at Duke and an Ex-Software Engineer (ION Group)
 
 ## About Me
 
