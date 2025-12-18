@@ -1,40 +1,39 @@
-# Tarun Kumar — Quantum Software Engineer
+# Welcome
 
-I'm Tarun, a software engineer focused on quantum computing and open-source collaboration. Below are highlights of my contributions to major quantum software projects and a few other accomplishments.
+I'm Tarun, a passionate software engineer with a keen interest in quantum computing. Excited to explore and learn along this fascinating journey!
 
-## Open-source contributions
+## About Me
 
-### PennyLane
+- Learnt about quantum computing while simulating Shor's algorithm on FPGA during undergrad project. [View publication](https://ieeexplore.ieee.org/document/9807860)
+- Completed the IBM Space Explorer Program, achieving an Advanced badge. [View badge](https://www.credly.com/badges/28fb91b1-077d-45e3-8f1a-77a383ee392c/public_url)
+- Ranked in the top 100 out of 2,000 participants in the iQHack coding challenges. [View certificate](https://cloud.pennylane.ai/profiles/ob/certificates/permalink/1cd1d437-e93c-4455-acd0-b9738e61cd67)
+- Successfully completed bounties in the UnitaryHack. [View completed bounties](https://unitaryhack.dev/hackers/tarun-kumar07/)
 
-- Enhanced the unit-testing experience for a 200+ contributor codebase by refactoring operator-equality checks to return detailed mismatch explanations instead of a boolean. This improves developer debugging and test quality. (PR #5780: https://github.com/PennyLaneAI/pennylane/pull/5780)
-- Implemented QutritChannel to extend the noise-modeling framework from qubits to qutrits. The feature is documented and part of the public API. (PR #5793: https://github.com/PennyLaneAI/pennylane/pull/5793)
-- Optimized internal sampling in shots.bins(), yielding ~50% performance improvement in shot-sampling efficiency. (PR #5476: https://github.com/PennyLaneAI/pennylane/pull/5476)
-- Extended measurement ingestion with process_counts to accept count-dictionary data from external quantum devices. (PRs #5256: https://github.com/PennyLaneAI/pennylane/pull/5256, #5395: https://github.com/PennyLaneAI/pennylane/pull/5395)
+## Projects I've Contributed to
 
-All PennyLane contributions: https://github.com/PennyLaneAI/pennylane/pulls?q=author%3ATarun-Kumar07+
+<details>
+<summary><a href="https://github.com/PennyLaneAI/pennylane" target="_blank">PennyLane</a></summary>
 
-### Amazon Braket Python SDK
+- Enhanced the testing framework by implementing `assert_equal` in [PR #5780](https://github.com/PennyLaneAI/pennylane/pull/5780). This feature provides detailed explanations for operator differences, improving debugging.
+- Implemented `QutritChannel` functionality in [PR #5793](https://github.com/PennyLaneAI/pennylane/pull/5793) to support noise models for qutrits in quantum computing simulations.
+- Improved shot sampling efficiency with `shots.bins()` in [PR #5476](https://github.com/PennyLaneAI/pennylane/pull/5476), optimizing performance.
+- [Link](https://github.com/PennyLaneAI/pennylane/pulls?q=author%3ATarun-Kumar07+) to all contributions
 
-- Resolved a naming conflict by validating against OpenQASM-reserved identifiers, preventing runtime errors for parameterized circuits. (Issue #603: https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603, PR #999: https://github.com/amazon-braket/amazon-braket-sdk-python/pull/999)
+</details>
 
-### Qiskit
+<details>
+<summary><a href="https://github.com/Qiskit/qiskit" target="_blank">Qiskit</a></summary>
 
-- Helped fix Issue #12106 related to synth_cnot_count_full_pmh for synthesizing linear reversible circuits. (Issue: https://github.com/Qiskit/qiskit/issues/12106)
+- Contributed to fixing [Issue #12106](https://github.com/Qiskit/qiskit/issues/12106), addressing `synth_cnot_count_full_pmh` for synthesizing linear reversible circuits.
 
-### qBraid - qbraid-qir
+</details>
 
-- Reported missing support for the Base Profile in generated QIR (Issue #215), which the community subsequently addressed. (Issue: https://github.com/qBraid/qbraid-qir/issues/215)
+<details>
+<summary><a href="https://github.com/amazon-braket/amazon-braket-sdk-python" target="_blank">Amazon Braket Python SDK</a></summary>
 
-## Other highlights
+- Resolved [Issue #603](https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603) by handling conflicts with `FreeParameter` names and OpenQASM reserved keywords in [PR #999](https://github.com/amazon-braket/amazon-braket-sdk-python/pull/999).
 
-- Learned about quantum computing while simulating Shor's algorithm on FPGA during my undergrad project. Publication: https://ieeexplore.ieee.org/document/9807860
-- Completed the IBM Space Explorer Program (Advanced badge): https://www.credly.com/badges/28fb91b1-077d-45e3-8f1a-77a383ee392c/public_url
-- Ranked top 100 out of 2,000 participants in iQHack coding challenges.
-- Completed bounties in UnitaryHack: https://unitaryhack.dev/hackers/tarun-kumar07/
+</details>
 
-## Links
-
-- GitHub contributions: https://github.com/Tarun-Kumar07
-- LinkedIn: https://www.linkedin.com/in/tarun-kumar-allamsetty/
-
-(Updated README to highlight open-source contributions with direct links to PRs and issues.)
+## Socials
+- LinkedIn: [Tarun Kumar Allamsetty](https://www.linkedin.com/in/tarun-kumar-allamsetty/)
