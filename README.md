@@ -11,7 +11,7 @@ I'm Tarun, a passionate software engineer with a keen interest in quantum comput
 
 ## Projects I've Contributed to
 
-<details>
+<details open>
 <summary><a href="https://github.com/PennyLaneAI/pennylane" target="_blank">PennyLane</a></summary>
 
 - Enhanced the testing framework by implementing `assert_equal` in [PR #5780](https://github.com/PennyLaneAI/pennylane/pull/5780). This feature provides detailed explanations for operator differences, improving debugging.
@@ -21,14 +21,14 @@ I'm Tarun, a passionate software engineer with a keen interest in quantum comput
 
 </details>
 
-<details>
+<details open>
 <summary><a href="https://github.com/Qiskit/qiskit" target="_blank">Qiskit</a></summary>
 
 - Contributed to fixing [Issue #12106](https://github.com/Qiskit/qiskit/issues/12106), addressing `synth_cnot_count_full_pmh` for synthesizing linear reversible circuits.
 
 </details>
 
-<details>
+<details open >
 <summary><a href="https://github.com/amazon-braket/amazon-braket-sdk-python" target="_blank">Amazon Braket Python SDK</a></summary>
 
 - Resolved [Issue #603](https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603) by handling conflicts with `FreeParameter` names and OpenQASM reserved keywords in [PR #999](https://github.com/amazon-braket/amazon-braket-sdk-python/pull/999).
